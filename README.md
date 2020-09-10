@@ -13,8 +13,8 @@ In my free time I've contribute open-source projects and packages like:
 - [laraeast/laravel-adminlte](https://github.com/laraeast/laravel-adminlte)
 - [laraeast/frontend-scaffolding](https://github.com/laraeast/frontend-scaffolding)
 - [laraeast/laravel-sluggable](https://github.com/laraeast/laravel-sluggable)
-- [elnooronline/laravel-bootstrap-forms](https://github.com/elnooronline/laravel-bootstrap-forms)
-- [elnooronline/laravel-locales](https://github.com/elnooronline/laravel-locales)
+- [laraeast/laravel-bootstrap-forms](https://github.com/laraeast/laravel-bootstrap-forms)
+- [laraeast/laravel-locales](https://github.com/laraeast/laravel-locales)
 - [ahmed-aliraqi/laravel-media-uploader](https://github.com/ahmed-aliraqi/laravel-media-uploader)
 - [ahmed-aliraqi/laravel-file-uploader](https://github.com/ahmed-aliraqi/laravel-file-uploader) (NPM plugin)
 
