@@ -1,22 +1,107 @@
-### Hi there 👋
+# Ahmed Fathy
 
-I'm [Ahmed Fathy](https://github.com/ahmed-aliraqi), Full Stack Developer and I have +6 years of experience.
+Senior Backend Engineer (Laravel) | SaaS | API Integrations | GIS Systems
 
-In my free time I've contribute open-source projects and packages like:
+---
 
-- [laravel/framework](https://github.com/laravel/framework)
-- [laravel/docs](https://github.com/laravel/docs)
-- [astrotomic/laravel-translatable](https://github.com/astrotomic/laravel-translatable)
-- [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
-- [martinlindhe/laravel-vue-i18n-generator](https://github.com/martinlindhe/laravel-vue-i18n-generator)
-- [laraeast/laravel-settings](https://github.com/laraeast/laravel-settings)
-- [laraeast/laravel-adminlte](https://github.com/laraeast/laravel-adminlte)
-- [laraeast/frontend-scaffolding](https://github.com/laraeast/frontend-scaffolding)
-- [laraeast/laravel-sluggable](https://github.com/laraeast/laravel-sluggable)
-- [laraeast/laravel-bootstrap-forms](https://github.com/laraeast/laravel-bootstrap-forms)
-- [laraeast/laravel-locales](https://github.com/laraeast/laravel-locales)
-- [ahmed-aliraqi/laravel-media-uploader](https://github.com/ahmed-aliraqi/laravel-media-uploader)
-- [ahmed-aliraqi/laravel-file-uploader](https://github.com/ahmed-aliraqi/laravel-file-uploader) (NPM plugin)
+## 👋 About Me
 
-**My Skills**
-> `Relational Databases and SQL` `PHP` `Laravel` `RESTful APIs` `Javascript ES6` `SOLID Principles and Design Patterns` `PHPUnit` `Test Driven Development` `Vue.JS` `Redis` `JSON` `XML` `Linux` `SSH` `Nginx` `Laravel Forge` `PMs (Composer, NPM, Yarn)` `CSS Pre-processors` `Regular Expressions` `JQuery` `Bugjs` `React` `Webpack` `Git` `OOP` `MVC` `Tailwind Css` `HTML`
+I am a Senior Backend Engineer with 10+ years of experience building scalable web applications, high-performance APIs, and data-driven SaaS platforms.
+
+My expertise focuses on:
+
+- Designing clean, maintainable backend architectures
+- Building reliable third-party API integrations
+- Implementing queue-based background processing systems
+- Optimizing database performance and API response times
+- Developing GIS dashboards and OpenStreetMap-based systems
+
+I enjoy solving complex backend problems and building systems that scale.
+
+---
+
+## 🧠 Technical Stack
+
+### Backend
+- PHP 8
+- Laravel
+- REST API Design
+- Clean Architecture
+- SOLID Principles
+- Background Jobs & Queues
+- Retry / Backoff Strategies
+- Rate Limit Handling
+
+### Frontend
+- Vue.js
+- React
+- Angular
+
+### Databases & Caching
+- MySQL (Query Optimization)
+- Redis (Caching & Queues)
+
+### DevOps
+- Docker
+- Nginx
+- Linux
+- CI/CD Pipelines
+
+### Integrations
+- Facebook Marketing API
+- Google Ads API
+- LinkedIn API
+- TikTok API
+- Twitter API
+
+### GIS
+- OpenStreetMap (OSM)
+- GeoJSON Processing
+- Spatial Queries
+- Real-Time Tracking Systems
+
+---
+
+## 💼 What I Build
+
+### 📊 Marketing Analytics Dashboards
+Unified dashboards integrating multiple advertising platforms with queue-based data synchronization and performance optimization.
+
+### 🗺 GIS & Mapping Systems
+Interactive dashboards with POI visualization, real-time tracking, and OSM editing tools.
+
+### 🎓 SaaS Platforms
+Education systems, booking systems, and scalable API-driven web applications.
+
+---
+
+## 📈 Engineering Focus
+
+- Scalable backend architecture
+- API reliability and integration stability
+- Performance optimization
+- Clean, maintainable code
+- Production-ready deployments
+- Code reviews & mentoring
+
+---
+
+## 🌍 Open Source
+
+Contributor to Laravel ecosystem and related packages.
+
+Published:
+- Laravel Media Uploader (Featured on Laravel News)
+- Laravel File Uploader (NPM package)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: https://fathy.me
+- 💼 LinkedIn: https://linkedin.com/in/ahmed-fathy-a63205158
+- 📧 Email: fathy.dev@gmail.com
+
+---
+
+> Open to remote Senior Backend / SaaS opportunities.
