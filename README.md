@@ -4,7 +4,7 @@ Senior Backend Engineer (Laravel) | SaaS | API Integrations | GIS Systems
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a Senior Backend Engineer with 10+ years of experience building scalable web applications, high-performance APIs, and data-driven SaaS platforms.
 
@@ -20,7 +20,7 @@ I enjoy solving complex backend problems and building systems that scale.
 
 ---
 
-## 🧠 Technical Stack
+## Technical Stack
 
 ### Backend
 - PHP 8
@@ -62,20 +62,20 @@ I enjoy solving complex backend problems and building systems that scale.
 
 ---
 
-## 💼 What I Build
+## What I Build
 
-### 📊 Marketing Analytics Dashboards
+### Marketing Analytics Dashboards
 Unified dashboards integrating multiple advertising platforms with queue-based data synchronization and performance optimization.
 
-### 🗺 GIS & Mapping Systems
+### GIS & Mapping Systems
 Interactive dashboards with POI visualization, real-time tracking, and OSM editing tools.
 
-### 🎓 SaaS Platforms
+### SaaS Platforms
 Education systems, booking systems, and scalable API-driven web applications.
 
 ---
 
-## 📈 Engineering Focus
+## Engineering Focus
 
 - Scalable backend architecture
 - API reliability and integration stability
@@ -86,7 +86,7 @@ Education systems, booking systems, and scalable API-driven web applications.
 
 ---
 
-## 🌍 Open Source
+## Open Source
 
 Contributor to Laravel ecosystem and related packages.
 
@@ -96,11 +96,11 @@ Published:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 🌐 Portfolio: https://fathy.me
-- 💼 LinkedIn: https://linkedin.com/in/ahmed-fathy-a63205158
-- 📧 Email: fathy.dev@gmail.com
+- Website: https://fathy.me
+- LinkedIn: https://linkedin.com/in/ahmed-fathy-a63205158
+- Email: fathy.dev@gmail.com
 
 ---
 
